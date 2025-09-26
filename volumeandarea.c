@@ -1,6 +1,6 @@
 // name:EVANS KOMAREN SEKUT
 //regno:CT101/G/22798/24
-//description:
+//description:VOLUME AND SURFACE AREA
 //volume and surface area
 #include<stdio.h>
 #define PI 3.141592653589793
