@@ -1,6 +1,6 @@
 // name:EVANS KOMAREN SEKUT
 //regno:CT101/G/22798/24
-//description:
+//description:USER DETAILS
 //simple c program
 #include<stdio.h>
 int main() {
