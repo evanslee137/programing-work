@@ -1,6 +1,6 @@
 // name:EVANS KOMAREN SEKUT
 //regno:CT101/G/22798/24
-//description:
+//description:SEM1 UNITS
 //simple c program
 #include<stdio.h>
 int main() {
@@ -15,4 +15,5 @@ int main() {
     printf("8.Mathematics For Science\n");
     return 0;
 }
+
 
