@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:choice validation
+*/
 #include<stdio.h>
 int main() {
 int choice;
