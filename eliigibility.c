@@ -1,3 +1,6 @@
+// name:EVANS KOMAREN SEKUT
+//regno:CT101/G/22798/24
+//description:checking for final exam eligibility
 #include<stdio.h>
 int main() {
 int attendance, marks;
