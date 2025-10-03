@@ -1,7 +1,7 @@
 /*
 name:EVANS KOMAREN SEKUT
 reg no:CT101/G/22798/24
-description:
+description:password prompt
 */
 #include<stdio.h>
 #include<string.h>
@@ -17,4 +17,5 @@ int main() {
    }while(strcmp(password,correct) !=0);
    printf("access granded\n");
    return 0;
+
 }
