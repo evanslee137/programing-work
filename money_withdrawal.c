@@ -1,7 +1,7 @@
 /*
 name:EVANS KOMAREN SEKUT
 reg no:CT101/G/22798/24
-description:
+description:money withdrawal
 */
 #include<stdio.h>
 int main() {
@@ -20,4 +20,5 @@ if(balance<0) {
 printf("remaining balance: %d\n",balance);        
 }
 return 0;
+
 }
