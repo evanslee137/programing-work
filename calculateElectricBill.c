@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:calculateElectricBill
+*/
 #include<stdio.h>
 float calculateElectricBill(int units) {
     float bill =0;
