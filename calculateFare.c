@@ -7,7 +7,7 @@ description:calculateFare
 
 int calculateFare(int rate, int distance);
 
-int main()
+void main()
 {
     int rate = 50,distance,Fare;
 
@@ -17,7 +17,7 @@ int main()
     Fare = calculateFare(rate, distance);  // 
     printf("Total fare is: %d\n", Fare);
 
-    return 0;
+
 }
 
 int calculateFare(int rate, int distance)
@@ -27,4 +27,5 @@ int calculateFare(int rate, int distance)
     
 
 }
+
 
