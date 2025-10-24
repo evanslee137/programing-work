@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:calculateFare
+*/
 #include <stdio.h>
 
 int calculateFare(int rate, int distance);
@@ -20,4 +25,5 @@ int calculateFare(int rate, int distance)
     int Fare=rate*distance;
     return Fare;
     
+
 }
