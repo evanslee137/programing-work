@@ -14,7 +14,7 @@ int main()
     printf("Enter distance travelled(in kilometers): ");
     scanf("%d", &distance);
 
-    Fare = calculateFare(rate, distance);  // ✅ correct
+    Fare = calculateFare(rate, distance);  // 
     printf("Total fare is: %d\n", Fare);
 
     return 0;
@@ -27,3 +27,4 @@ int calculateFare(int rate, int distance)
     
 
 }
+
