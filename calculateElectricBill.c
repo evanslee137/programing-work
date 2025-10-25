@@ -4,8 +4,22 @@ reg no:CT101/G/22798/24
 description:calculateElectricBill
 */
 #include<stdio.h>
-float calculateElectricBill(int units) {
-    float bill =0;
+float calculateElectricBill(int units);
+
+    void main()
+{
+   float units, Bill;
+    printf("enter units consumed\n");
+    scanf("%f",&units);
+    Bill=calculateElectricBill(units);
+    printf("Total Bill is:%f\n",Bill);
+    
+}
+
+float calculateElectricBill(int units)
+
+{
+ float bill =0;
     if(units>=100) {
         bill = units * 10;
     }
@@ -17,13 +31,4 @@ float calculateElectricBill(int units) {
         
     }
     return bill;
-}
-
-int main() {
-    int units;
-    printf("enter the number of units consumed: ");
-    scanf("%d",&units);
-    float totalBill=calculateElectricBill(units);
-    printf("Total Electricity Bill: Ksh.2f\n", totalBill);
-    return 0;
 }
