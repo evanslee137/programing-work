@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:student's_records
+*/
 #include <stdio.h>
 
 struct Student {
@@ -31,3 +36,4 @@ int main() {
 
     return 0;
 }
+
