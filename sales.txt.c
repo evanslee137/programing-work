@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:sales
+*/
 #include <stdio.h>
 
 int main() {
@@ -25,3 +30,4 @@ int main() {
 
     return 0;
 }
+
