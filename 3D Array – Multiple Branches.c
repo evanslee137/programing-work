@@ -1,3 +1,8 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:3DArray
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -33,4 +38,5 @@ int main() {
     printf("Total rooms occupied across all branches: %d\n", totalOccupied);
 
     return 0;
+
 }
