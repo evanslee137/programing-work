@@ -1,7 +1,7 @@
 /*
 name:EVANS KOMAREN SEKUT
 reg no:CT101/G/22798/24
-description:3DArray
+description:2DArray
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -43,3 +43,4 @@ int main() {
     return 0;
 
 }
+
